@@ -26,7 +26,7 @@
           <p class="title">PHOTO</p>
           <p class="subtitle"></p>
           <figure class="image is-256x128">
-            <img src="https://bulma.io/images/placeholders/640x480.png">
+            <img src="~static/내사진.jpg">
           </figure>
         </article>
       </div>
@@ -49,6 +49,8 @@
         <figure class="image is-512x512">
             <img src="~static/정보통신공학과.png">
           </figure>
+          <p class="subtitle">정보통신 서비스가 고품질화되고 멀티미디어화 됨에 따라 이를 실현하는 정보통신 기술이 눈부시게 발전하고 있습니다. 국내외적으로 스마트폰과 태블릿과 같은 스마트 디바이스 기술과 이를 이용한 모바일 정보통신 소프트웨어 및 모바일 프로그래밍 기술은 고부가가치의 전략 품목으로 인식되고 있습니다. 따라서 정보통신 기술(ICT) 기반의 시대적 요구가 증대되고 있는 정보통신 기술의 융합과 스마트 모바일 기술을 특성화하여 졸업생들의 엔지니어적 경쟁력을 지속적으로 강화하고 있습니다. 현재 사회의 화두가 되는 “4차 산업혁명”의 기반 기술은 정보통신 기술(ICT)의 융합이므로 정보통신 기술과 스마트 모바일 기술을 창의적으로 연구개발하여 새로운 부가가치를 창조할 수 있습니다.</p>
+          
         <div class="content">
           <!-- Content -->
         </div>

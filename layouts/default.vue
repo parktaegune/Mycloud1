@@ -10,7 +10,7 @@
         <div class="navbar-end">
           <nuxt-link to="/about" class="navbar-item">HOME/SELF-INTRODUCTION</nuxt-link>
           <nuxt-link to="/stat" class="navbar-item">PROJECT</nuxt-link>
-          <nuxt-link to="/about" class="navbar-item">SPECIAL LECTURE</nuxt-link>
+          <nuxt-link to="/park" class="navbar-item">SPECIAL LECTURE</nuxt-link>
         </div>
       </div>
     </nav>

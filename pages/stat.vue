@@ -20,24 +20,30 @@
           
         </article>
         <article class="tile is-child notification is-primary">
-          <p class="title">H.P</p>
-          <p class="subtitle">010-7175-3348</p>
+          <p class="title">참여한 사람</p>
+          <p class="subtitle">박태건</p>
+          <p class="subtitle">오명학</p>
+          <p class="subtitle">박시찬</p>
         </article>
       </div>
       <div class="tile is-parent">
         <article class="tile is-child notification is-primary">
-          <p class="title">PHOTO</p>
+          <p class="title">Project PHOTO</p>
           <p class="subtitle"></p>
           <figure class="image is-256x128">
-            <img src="https://bulma.io/images/placeholders/640x480.png">
+            <img src="~static/beauty.jpg">
+          </figure>
+          <p class="subtitle"></p>
+          <figure class="image is-256x128">
+            <img src="~static/나만의 전기방석.jpg">
           </figure>
         </article>
       </div>
     </div>
     <div class="tile is-parent">
       <article class="tile is-child notification is-primary">
-        <p class="title">E-mail</p>
-        <p class="subtitle">qkrxo876@hanmail.net</p>
+        <p class="title"></p>
+        <p class="subtitle"></p>
         <div class="content">
           <!-- Content -->
         </div>
@@ -45,13 +51,21 @@
     </div>
   </div>
   <div class="tile is-parent">
-    <article class="tile is-child notification is-success">
+    <article class="tile is-child notification is-primary">
       <div class="content">
-        <p class="title">DEPARTMENT</p>
-        <p class="subtitle">정보통신융합공학과</p>
+        <p class="title"></p>
+        <p class="subtitle"></p>
         <figure class="image is-512x512">
-            <img src="~static/정보통신공학과.png">
+            <img src="~static/판플렛.jpg">
           </figure>
+          <figure class="image is-512x512">
+            <img src="~static/회의.jpg">
+          </figure>
+          <figure class="image is-512x512">
+            <img src="~static/6.jpg">
+          </figure>
+         
+        
         <div class="content">
           <!-- Content -->
         </div>

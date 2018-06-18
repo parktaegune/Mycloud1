@@ -17,7 +17,7 @@
           <p class="subtitle">박태건</p>
         </article>
         <article class="tile is-child notification is-primary">
-          <p class="title">H.P</p>
+          <p class="title">123213</p>
           <p class="subtitle">010-7175-3348</p>
         </article>
       </div>
