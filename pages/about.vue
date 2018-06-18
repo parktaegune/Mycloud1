@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-primary">
+  <section class="hero is-light">
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
@@ -12,17 +12,17 @@
   <div class="tile is-vertical is-8">
     <div class="tile">
       <div class="tile is-parent is-vertical">
-        <article class="tile is-child notification is-success">
+        <article class="tile is-child notification is-Dark">
           <p class="title">NAME</p>
           <p class="subtitle">박태건</p>
         </article>
-        <article class="tile is-child notification is-success">
+        <article class="tile is-child notification is-Dark">
           <p class="title">H.P</p>
           <p class="subtitle">010-7175-3348</p>
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-success">
+        <article class="tile is-child notification is-Dark">
           <p class="title">PHOTO</p>
           <p class="subtitle"></p>
           <figure class="image is-256x128">
@@ -32,7 +32,7 @@
       </div>
     </div>
     <div class="tile is-parent">
-      <article class="tile is-child notification is-success">
+      <article class="tile is-child notification is-Dark">
         <p class="title">E-mail</p>
         <p class="subtitle">qkrxo876@hanmail.net</p>
         <div class="content">
@@ -42,7 +42,7 @@
     </div>
   </div>
   <div class="tile is-parent">
-    <article class="tile is-child notification is-success">
+    <article class="tile is-child notification is-Dark">
       <div class="content">
         <p class="title">DEPARTMENT</p>
         <p class="subtitle">정보통신융합공학과</p>
@@ -59,6 +59,19 @@
   </div>
 </div>
     </div>
+     <footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        <strong>park</strong> by <a href="https://jgthms.com">Taegun</a>. address. gyeong-gidoui jeongbusi howondong sin-won A d 101동 1701 호
+        <a href="http://opensource.org/licenses/mit-license.php">park</a>. 
+         <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> BY 2018-06-18</a>.
+      </p>
+    </div>
   </div>
+</footer>
+  </div>
+
 </section>
+
 </template>
