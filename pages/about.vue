@@ -12,17 +12,17 @@
   <div class="tile is-vertical is-8">
     <div class="tile">
       <div class="tile is-parent is-vertical">
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-success">
           <p class="title">NAME</p>
           <p class="subtitle">박태건</p>
         </article>
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-success">
           <p class="title">H.P</p>
           <p class="subtitle">010-7175-3348</p>
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-success">
           <p class="title">PHOTO</p>
           <p class="subtitle"></p>
           <figure class="image is-256x128">
@@ -32,7 +32,7 @@
       </div>
     </div>
     <div class="tile is-parent">
-      <article class="tile is-child notification is-primary">
+      <article class="tile is-child notification is-success">
         <p class="title">E-mail</p>
         <p class="subtitle">qkrxo876@hanmail.net</p>
         <div class="content">

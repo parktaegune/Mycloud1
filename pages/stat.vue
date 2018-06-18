@@ -12,14 +12,14 @@
   <div class="tile is-vertical is-8">
     <div class="tile">
       <div class="tile is-parent is-vertical">
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-success">
           <p class="title">PROJECT NAME</p>
           <p class="subtitle">UI/UX DESIGN</p>
           <p class="subtitle">나만의 전기방석</p>
           <p class="subtitle">BEAUTY BLIND</p>
           
         </article>
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-success">
           <p class="title">참여한 사람</p>
           <p class="subtitle">박태건</p>
           <p class="subtitle">오명학</p>
@@ -27,7 +27,7 @@
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-primary">
+        <article class="tile is-child notification is-success">
           <p class="title">Project PHOTO</p>
           <p class="subtitle"></p>
           <figure class="image is-256x128">
@@ -51,7 +51,7 @@
     </div>
   </div>
   <div class="tile is-parent">
-    <article class="tile is-child notification is-primary">
+    <article class="tile is-child notification is-success">
       <div class="content">
         <p class="title"></p>
         <p class="subtitle"></p>
