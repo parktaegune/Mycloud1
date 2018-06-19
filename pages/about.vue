@@ -28,9 +28,28 @@
           <figure class="image is-256x128">
             <img src="~static/내사진.jpg">
           </figure>
+          <table class="table">
+  <thead>
+    <tr>
+      <th><abbr title="Position">NAME</abbr></th>
+      <th><abbr title="Position">AGE</abbr></th>
+      <th><abbr title="Position">HOBBY</abbr></th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <th><abbr title="Position">박태건</abbr></th>
+      <th><abbr title="Position">25</abbr></th>
+      <th><abbr title="Position">음악듣기</abbr></th>
+    </tr>
+  
+  </tbody>
+</table>
         </article>
       </div>
     </div>
+    
     <div class="tile is-parent">
       <article class="tile is-child notification is-Dark">
         <p class="title">E-mail</p>
